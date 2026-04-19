@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis — Full Project
-## VS Code · Python · BERT · Heat Map · From Scratch
+## VS Code · Python · BERT · Heat Map 
 
 ---
 
